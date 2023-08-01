@@ -1,18 +1,15 @@
 <h1 align="center">
-  Welcome to TheDataHunter
+  Welcome to TheDataHunter <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div id="header" align="center">
+<br>
+<div align="center">
   <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="300"/>
-  <br>
+</div>
+<br>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=TheDataHunter&style=flat-square&color=blue" alt=""/>
 </div>
-
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+<br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
