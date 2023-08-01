@@ -1,5 +1,5 @@
 <h1 align="center">
-  --- TheDataHunter ---
+  Welcome to TheDataHunter
 </h1>
 
 <div id="header" align="center">
