@@ -25,6 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" title="Processing" **alt="Processing" width="50" height="50"/>
 </div>
 
+<br>
+
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDataHunter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
