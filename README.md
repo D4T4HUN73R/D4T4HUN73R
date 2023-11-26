@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to DataHunter's :computer: :satellite: :house_with_garden: 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to D4T4HUN73R's :computer: :satellite: :house_with_garden: 
 </h1>
 <br>
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheDataHunter&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=D4T4HUN73R&style=flat-square&color=blue" alt=""/>
 </div>
 <br>
 <div align="center">
@@ -26,8 +26,8 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDataHunter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4T4HUN73R&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheDataHunter&theme=dark&background=000000)](https://git.io/streak-stats) 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D4T4HUN73R&theme=dark&background=000000)](https://git.io/streak-stats) 
   
 </div>
