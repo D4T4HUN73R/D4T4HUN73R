@@ -31,3 +31,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D4T4HUN73R&theme=dark&background=000000)](https://git.io/streak-stats) 
   
 </div>
+
+## ⚠️ DISCLAIMER ⚠️
+
+The scripts and software published on this platform are solely intended for educational purposes. These materials, including any form of publication, are provided without any bad intent. Users are strictly prohibited from utilizing this content for criminal activities or actions that may cause harm to others or engage in activities with wrongful intent. The creators and publishers of these materials shall not be held responsible for any misuse or unauthorized use of the provided content. By accessing and utilizing these materials, you agree to abide by this disclaimer and use the content solely for educational purposes.
