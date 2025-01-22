@@ -27,8 +27,6 @@
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4T4HUN73R&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D4T4HUN73R&theme=dark&background=000000)](https://git.io/streak-stats) 
   
 </div>
 
